@@ -14,4 +14,4 @@
 
 </div><br/>
 
-Apaixonado por educação ciência e análise de dados.
+Apaixonado por educação, ciência e análise de dados.
