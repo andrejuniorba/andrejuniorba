@@ -12,7 +12,9 @@
 <div style="display: inline_block"><br/>
     <img align="center" alt="Python" src ="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt="SQlite" src ="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+    <img align="center" alt="Excel" src ="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 
 </div><br/>
 
 Apaixonado por educação, ciência e análise de dados.
+
