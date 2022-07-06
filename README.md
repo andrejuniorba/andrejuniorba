@@ -18,3 +18,5 @@
 
 Apaixonado por educação, ciência e análise de dados.
 
+## Sala de estudo 🖥
+
