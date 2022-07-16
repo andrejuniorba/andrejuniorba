@@ -22,6 +22,12 @@ Apaixonado por educação, ciência e análise de dados.
 
 ### Matemática (Educação)
 
+01. [Calculadora 1.0](https://github.com/andrejuniorba/Matematica_codigos/blob/main/01.%20Calculadora_1_0.ipynb)
+02. [Equação do 2º grau](https://github.com/andrejuniorba/Matematica_codigos/blob/main/02.%20Equa%C3%A7%C3%A3o_do_2%C2%BA_grau.ipynb)
+03. [Polinômio de grau N](https://github.com/andrejuniorba/Matematica_codigos/blob/main/03.%20Polin%C3%B4mio_grauN_Numpy.ipynb)
+04. [Decomposição e MDC](https://github.com/andrejuniorba/Matematica_codigos/blob/main/05.%20Fatora%C3%A7%C3%A3o%20e%20MDC.ipynb)
+05. [Expressões algébricas e Produto Notáveis](https://github.com/andrejuniorba/Matematica_codigos/blob/main/06.%20Express%C3%B5es%20e%20Produto%20Not%C3%A1veis.ipynb)
+
 ### Dados
 
 01. [Análise de acões pagadoras de Dividendos](https://github.com/andrejuniorba/Analises_estudos/blob/main/Análise_de_boas_ações_pagadoras_de_dividendos.ipynb)
