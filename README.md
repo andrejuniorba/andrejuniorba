@@ -20,6 +20,8 @@ Apaixonado por educação, ciência e análise de dados.
 
 ## Sala de estudo 🖥
 
+### Matemática (Educação)
+
 ### Dados
 
 01. [Análise de acões pagadoras de Dividendos](https://github.com/andrejuniorba/Analises_estudos/blob/main/Análise_de_boas_ações_pagadoras_de_dividendos.ipynb)
