@@ -28,6 +28,10 @@ Apaixonado por educação, ciência e análise de dados.
 04. [Decomposição e MDC](https://github.com/andrejuniorba/Matematica_codigos/blob/main/05.%20Fatora%C3%A7%C3%A3o%20e%20MDC.ipynb)
 05. [Expressões algébricas e Produto Notáveis](https://github.com/andrejuniorba/Matematica_codigos/blob/main/06.%20Express%C3%B5es%20e%20Produto%20Not%C3%A1veis.ipynb)
 
+### Automação
+
+01. [Renomear arquivos](https://github.com/andrejuniorba/Projetos_Estudos/blob/main/02_Renomear_arquivos.ipynb)
+
 ### Dados
 
 01. [Análise de acões pagadoras de Dividendos](https://github.com/andrejuniorba/Analises_estudos/blob/main/Análise_de_boas_ações_pagadoras_de_dividendos.ipynb)
