@@ -31,6 +31,8 @@ Apaixonado por educação, ciência e análise de dados.
 ### Automação
 
 01. [Renomear arquivos](https://github.com/andrejuniorba/Projetos_Estudos/blob/main/02_Renomear_arquivos.ipynb)
+02. [Youtube para MP3](https://github.com/andrejuniorba/Projetos_Estudos/blob/main/Youtube%20para%20MP3.ipynb)
+03. [Encurtar URL](https://github.com/andrejuniorba/Projetos_Estudos/blob/main/Encurtar%20URL.ipynb)
 
 ### Dados
 
