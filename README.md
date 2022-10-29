@@ -28,6 +28,7 @@ Apaixonado por educação, ciência e análise de dados.
 03. [Polinômio de grau N](https://github.com/andrejuniorba/Matematica_codigos/blob/main/03.%20Polin%C3%B4mio_grauN_Numpy.ipynb)
 04. [Decomposição e MDC](https://github.com/andrejuniorba/Matematica_codigos/blob/main/05.%20Fatora%C3%A7%C3%A3o%20e%20MDC.ipynb)
 05. [Expressões algébricas e Produto Notáveis](https://github.com/andrejuniorba/Matematica_codigos/blob/main/06.%20Express%C3%B5es%20e%20Produto%20Not%C3%A1veis.ipynb)
+06. [Função Afim / 1º grau](https://github.com/andrejuniorba/Matematica_codigos/blob/main/Fun%C3%A7%C3%A3o_Afim_ou_1%C2%BA_grau.ipynb)
 
 ### Automação
 
