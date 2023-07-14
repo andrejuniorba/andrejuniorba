@@ -43,6 +43,10 @@ Apaixonado por educação, ciência e análise de dados.
 01. [Análise de acões pagadoras de Dividendos](https://github.com/andrejuniorba/Analises_estudos/blob/main/Análise_de_boas_ações_pagadoras_de_dividendos.ipynb)
 02. [Análise de Fundos Imobiliários](https://github.com/andrejuniorba/Analises_estudos/blob/main/Análise_quantitativa_de_Fundos_Imobiliários.ipynb)
 
+### MySQL
+
+01. [Modelagem básica de BD](https://github.com/andrejuniorba/Banco_de_Dados)
+
 ### Machine Learning
 
 01. [Detecção de face](https://github.com/andrejuniorba/Projetos_Machine_Learning/blob/main/Detec%C3%A7%C3%A3o_de_faces.ipynb)
