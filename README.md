@@ -48,7 +48,7 @@ Apaixonado por educação, ciência e análise de dados.
 01. [Detecção de face](https://github.com/andrejuniorba/Projetos_Machine_Learning/blob/main/Detec%C3%A7%C3%A3o_de_faces.ipynb)
 02. [Modelo de classificação (Random Forest)](https://github.com/andrejuniorba/Projetos_Machine_Learning/blob/main/Modelo_de_Classifica%C3%A7%C3%A3o_Floresta_Aleat%C3%B3ria.ipynb)
 
-### Bootcamps
+### Bootcamps e Formações
 
 01. [DIO Innovation - Potência Tech powered by iFood | Ciências de Dados com Python](https://github.com/andrejuniorba/Potencia-tech-ifood/tree/main)
 
