@@ -45,7 +45,9 @@ Apaixonado por educação, ciência e análise de dados.
 
 ### MySQL
 
-01. [Modelagem básica de BD](https://github.com/andrejuniorba/Banco_de_Dados)
+01. [BD Ecommerce](https://github.com/andrejuniorba/Banco_de_Dados/blob/main/esquema_relacional.sql)
+
+02. [BD Oficina](https://github.com/andrejuniorba/Banco_de_Dados/blob/main/Oficina.sql)
 
 ### Machine Learning
 
