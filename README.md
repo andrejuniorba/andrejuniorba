@@ -49,6 +49,8 @@ Apaixonado por educação, ciência e análise de dados.
 
 02. [BD Oficina](https://github.com/andrejuniorba/Banco_de_Dados/blob/main/Oficina.sql)
 
+03. [Tela de Login e Cadastro](https://github.com/andrejuniorba/Python_Tkinter)
+
 ### Machine Learning
 
 01. [Detecção de face](https://github.com/andrejuniorba/Projetos_Machine_Learning/blob/main/Detec%C3%A7%C3%A3o_de_faces.ipynb)
