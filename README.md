@@ -60,4 +60,6 @@ Apaixonado por educação, ciência e análise de dados.
 ### Bootcamps e Formações
 
 01. [DIO Innovation - Potência Tech powered by iFood | Ciências de Dados com Python](https://github.com/andrejuniorba/Potencia-tech-ifood/tree/main)
+02. [DIO Innovation - Santander | Excel com Inteligência Artificial](https://github.com/andrejuniorba/Excel_IA)
+   
 
