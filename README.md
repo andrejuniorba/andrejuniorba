@@ -38,6 +38,7 @@ Apaixonado por educação, ciência e análise de dados.
 03. [Encurtar URL](https://github.com/andrejuniorba/Projetos_Estudos/blob/main/Encurtar%20URL.ipynb)
 04. [Converter imagem para PDF](https://github.com/andrejuniorba/Projetos_Estudos/blob/main/04.%20Converter%20Imagem%20para%20PDF.ipynb)
 05. [Combinar PDFs](https://github.com/andrejuniorba/Projetos_Estudos/blob/main/05.%20Combinar_PDF.py)
+06. [Gerador de Orçamento](https://github.com/andrejuniorba/Projetos_Estudos/blob/main/Gerador%20de%20Or%C3%A7amento.rar)
 
 ### Dados
 
